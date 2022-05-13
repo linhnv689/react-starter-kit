@@ -1,3 +1,17 @@
+## Front-end solution 
+- Typescript
+- Multi language react-intl
+- Page lazy loading
+- Redux, redux-persist, redux split and redux lazy loading
+- Middleware redux-sage
+- Alias import
+- Support run multi env
+- Testing with Jest and Cypress
+- Docker file for CI/CD
+- React router
+- nt design
+- Authentication
+- Modules structure code
 ## Run source
 ```
 yarn install
